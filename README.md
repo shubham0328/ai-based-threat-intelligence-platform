@@ -1,5 +1,3 @@
-# ai-based-threat-intelligence-platform
-AI Based Threat Intellegence Platform
 # AI-Based Threat Intelligence Platform
 
 AI-Based Threat Intelligence Platform is a solution designed to collect, analyze, and display threat data from various sources, helping security teams proactively manage and mitigate potential cyber threats. This repository contains both the backend (FastAPI) and frontend (Angular) components required to run the platform.
